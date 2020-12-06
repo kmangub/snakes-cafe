@@ -4,6 +4,10 @@
 
 *Author: Karlo Mangubat*
 
+Deployed site: https://kmangub.github.io/snakes-cafe/
+
+GitHub Repo: https://github.com/kmangub/snakes-cafe
+
 ----
 
 ## Description
